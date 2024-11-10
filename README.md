@@ -1,0 +1,1 @@
+Developed a microservices-based ride booking application with separate services like Booking, Personal, Authentication, and Ride. The architecture enabled users to securely book rides tailored to their needs, with each service operating independently for improved scalability and maintainability
